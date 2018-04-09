@@ -1,6 +1,9 @@
 # hw6
 Here you would find my Digital Humanities sixth homework.
 
+
+Часть 1 - Google Ngram Viewer
+
 ![10 самых частых употреблений "due to..."](http://dl3.joxi.net/drive/2018/04/09/0030/1972/1972148/48/a6383e93ea.jpg)
 
 ![Слово двух частей речи](http://dl4.joxi.net/drive/2018/04/09/0030/1972/1972148/48/39dd1a6dee.jpg)
