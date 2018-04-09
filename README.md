@@ -27,3 +27,11 @@ Here you would find my Digital Humanities sixth homework.
 Только ***rise***: "give" (This relationship *gives	rise*	to a dipping planar region of seismic activity.)
 
 Только ***raise***: "apply" (Whether such protection should *apply	raises*	broader questions.)
+
+Часть 3 - Бонусная часть
+===========================
+
+![](http://dl3.joxi.net/drive/2018/04/09/0030/1972/1972148/48/641167c9ef.jpg)
+![](http://dl3.joxi.net/drive/2018/04/09/0030/1972/1972148/48/aaf8745f2c.jpg)
+
+Для анализа данных я взяла слово "awards", на графиках мы можем наблюдать резкий рост частотности слова в корпусе BNC, но в Google Ngrams не наблюдается такой же рост частотности. Эти данные различаются потому что n-граммы - это такие структуры, которые содержат n слов и у них частотность - это сравнение количества использования этих n-граммов по сравнению с остальными. Sketch тоже умеет работать с n- граммами, НО он помогает смотреть именно сочетаемость слов.
